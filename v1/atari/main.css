@@ -1,0 +1,250 @@
+@font-face {
+  font-family: "Blox2";
+  src: url("Blox2.eot?") format("eot"),
+  url("Blox2.woff") format("woff"),
+  url("Blox2.ttf") format("truetype");
+}
+
+body {
+background-color: #9400D3;
+background-image: url(bg2.png);
+background-repeat: no-repeat;
+-moz-background-size: 100% 114%;
+-webkit-background-size: 100% 114%;
+background-size: 100% 114%;
+}
+
+.logo {
+position:relative;
+margin-left:500px;
+font-family: Blox2;
+font-size: 60px;
+color: #FFFFFF;
+text-shadow: -3px 2px 1px #000000;
+top:20px;
+background-color:;
+}
+
+.logo:hover {
+color:#FFFFFF;
+}
+
+.logo a:link {
+text-decoration:none;
+color:#FFFFFF;
+}
+
+.logo a:hover {
+text-decoration:none;
+color:#FFFFFF;
+}
+
+.logo a:active {
+text-decoration:none;
+color:#FFFFFF;
+}
+
+.logo a:visited {
+text-decoration:none;
+color:#FFFFFF;
+}
+
+.menu {
+position:relative;
+left:1px;
+top:10px;
+}
+
+#navcontainer {
+width:1310px;
+height:47px;
+background-color:#555555;
+position:relative;
+top:102px;
+left:20px;
+-webkit-border-radius: 3px 3px 3px 3px;
+border-radius: 10px 10px 10px 10px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#666666+0,555555+36,28343b+100 */
+background: #666666; /* Old browsers */
+background: -moz-linear-gradient(top,  #666666 0%, #555555 36%, #28343b 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#666666), color-stop(36%,#555555), color-stop(100%,#28343b)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #666666 0%,#555555 36%,#28343b 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #666666 0%,#555555 36%,#28343b 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #666666 0%,#555555 36%,#28343b 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #666666 0%,#555555 36%,#28343b 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#666666', endColorstr='#28343b',GradientType=0 ); /* IE6-9 */
+
+}
+
+#navcontainer ul
+{
+margin: 0;
+padding: 0;
+padding-top: 5px;
+list-style-type: none;
+text-align: center;
+}
+
+
+#navcontainer ul li { display: inline; }
+
+#navcontainer ul li a
+{
+font-family: "League-Gothic", Courier;
+font-weight: 900;
+text-transform: uppercase;
+text-decoration: none;
+text-shadow: 0px 2px 3px #666;
+padding: .2em 1em;
+color: #FFFFFF;
+}
+
+#navcontainer ul li a:hover
+{
+-webkit-border-radius: 3px 3px 3px 3px;
+border-radius: 3px 3px 3px 3px;
+color: #FFFFFF;
+-webkit-box-shadow:inset 0 0 5px 1px #000000;
+box-shadow:inset 0 0 5px 1px #000000;
+background: #666666;);
+}
+
+#Tabela11 {
+font-family: "League-Gothic", Courier;
+font-weight: 900;
+text-decoration: none;
+text-transform: uppercase;
+text-shadow: 0px 2px 3px #666;
+padding: .2em 1em;
+color: #FFFFFF;
+}
+
+#Tabela {
+position:relative;
+top:-50px;
+left:380px;
+font-family: "League-Gothic", Courier;
+font-weight: 900;
+text-transform: uppercase;
+text-decoration: none;
+text-shadow: 0px 2px 3px #666;
+padding: .2em 1em;
+color: #FFFFFF;
+width:600px;
+height:40px;
+background-color:#555555;
+-webkit-border-radius: 3px 3px 3px 3px;
+border-radius: 10px 10px 10px 10px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#666666+0,555555+36,28343b+100 */
+background: #666666; /* Old browsers */
+background: -moz-linear-gradient(top,  #666666 0%, #555555 36%, #28343b 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#666666), color-stop(36%,#555555), color-stop(100%,#28343b)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #666666 0%,#555555 36%,#28343b 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #666666 0%,#555555 36%,#28343b 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #666666 0%,#555555 36%,#28343b 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #666666 0%,#555555 36%,#28343b 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#666666', endColorstr='#28343b',GradientType=0 ); /* IE6-9 */
+}
+
+#img {
+width:80px;
+height:80px;
+-webkit-border-radius: 50px 50px 50px 50px;
+border-radius: 50px 50px 50px 50px;
+}
+
+#img:hover {
+width:100px;
+height:80px;
+-webkit-border-radius: 10px 10px 10px 0;
+border-radius: 10px 10px 10px 0;
+}
+
+#Tabela2 {
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f9fcf7+0,f5f9f0+100;L+Green+3D */
+background: #f9fcf7; /* Old browsers */
+background: -moz-linear-gradient(top,  #f9fcf7 0%, #f5f9f0 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f9fcf7), color-stop(100%,#f5f9f0)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #f9fcf7 0%,#f5f9f0 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #f9fcf7 0%,#f5f9f0 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #f9fcf7 0%,#f5f9f0 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #f9fcf7 0%,#f5f9f0 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9fcf7', endColorstr='#f5f9f0',GradientType=0 ); /* IE6-9 */
+-webkit-border-radius: 5px 5px 5px 5px;
+border-radius: 5px 5px 5px 5px;
+width:200px;
+height:200px;
+font-stretch:bold;
+font-weight: 900;
+}
+
+#Tabela2:hover {
+font-stretch:bold;
+font-weight: 900;
+color:#FF0000;
+}
+
+#Tabela3 a:link {
+font-family: "League-Gothic", Courier;
+font-weight: 900;
+text-transform: uppercase;
+text-decoration: none;
+text-shadow: 0px 2px 3px #666;
+color: #FFFFFF;
+}
+
+#Tabela3 a:visited {
+color:#FFFFFF;
+}
+
+#Footer a:link {
+position:absolute;
+top:800px;
+left:530px;
+font-family: "League-Gothic", Courier;
+font-weight: 900;
+text-transform: uppercase;
+text-decoration: none;
+text-shadow: 0px 2px 3px #666;
+color: #FFFFFF;
+text-decoration:none;
+}
+
+#Footer a:hover {
+position:absolute;
+top:800px;
+left:595px;
+font-family: "League-Gothic", Courier;
+font-weight: 900;
+text-transform: uppercase;
+text-decoration: none;
+text-shadow: 0px 2px 3px #666;
+color: #FFFFFF;
+text-decoration:none;
+}
+
+#Footer a:Active {
+position:absolute;
+top:800px;
+left:595px;
+font-family: "League-Gothic", Courier;
+font-weight: 900;
+text-transform: uppercase;
+text-decoration: none;
+text-shadow: 0px 2px 3px #666;
+color: #FFFFFF;
+text-decoration:none;
+}
+
+#Footer a:visited {
+position:absolute;
+top:800px;
+left:595px;
+font-family: "League-Gothic", Courier;
+font-weight: 900;
+text-transform: uppercase;
+text-decoration: none;
+text-shadow: 0px 2px 3px #666;
+color: #FFFFFF;
+text-decoration:none;
+}
